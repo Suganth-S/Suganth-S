@@ -1,7 +1,7 @@
 ### Hi there 👋! I'm Suganth
 ### A Passionate Android Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suganth-S&label=Profile%20views&color=0e75b6&style=flat" alt="Suganth-S" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suganth-S&label=Profile%20views&color=0e75b6&style=flat" alt="Suganth-S" /> </p> -->
 
 - 🌱 I’m currently learning **Flutter, Jetpack Compose, DSA**
 - 👨‍💻 #SelfTaught Developer.
@@ -10,6 +10,7 @@
 ### More About Me
 
 <a href="https://www.linkedin.com/in/suganth-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suganth-s" height="30" width="40" /></a>
+<a href="https://instagram.com/theastoway?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suganth-s" height="30" width="40" /></a>
 
 ### Tools & Technology 🛠
 
