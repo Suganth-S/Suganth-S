@@ -11,6 +11,7 @@
 
 <a href="https://www.linkedin.com/in/suganth-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suganth-s" height="30" width="40" /></a>
 <a href="https://instagram.com/theastoway?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suganth-s" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCQ2zUgxOwo5lzX11maTQmng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suganth-s" height="30" width="40" /></a>
 
 ### Tools & Technology 🛠
 
